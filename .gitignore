@@ -1,0 +1,5 @@
+# Untrack build directory
+target
+
+# Untrack generated file
+Cargo.lock
